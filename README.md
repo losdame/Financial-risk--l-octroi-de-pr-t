@@ -1,1 +1,1 @@
-# Financial-risk--l-octroi-de-prêt (Loan Approved)
+# Financial risk : l'octroi-de-prêt (Loan Approved)
